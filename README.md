@@ -1,4 +1,4 @@
-# 📬 Gmail to Kindle Newsletter Pipeline
+# 📬 Send Newsletters to Kindle Automatically
 
 A zero-maintenance Google Apps Script that automatically converts your Gmail newsletters into perfectly formatted, distraction-free EPUBs and sends them to your Kindle. 
 
